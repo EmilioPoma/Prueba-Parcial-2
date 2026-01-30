@@ -188,34 +188,27 @@ object CsvToMySQL extends IOApp.Simple {
 
 6️⃣ ¿Qué hace este programa? (explicación para exposición)
 
-Define un case class que representa una fila del CSV
+1. Define un case class que representa una fila del CSV
 
-FS2 lee el archivo de forma streaming (no carga todo en memoria)
+2. FS2 lee el archivo de forma streaming (no carga todo en memoria)
 
-fs2-data-csv convierte cada fila en un objeto Scala
+3. fs2-data-csv convierte cada fila en un objeto Scala
 
-Doobie inserta cada registro en MySQL
+4. Doobie inserta cada registro en MySQL
 
-HikariCP maneja el pool de conexiones
+5. HikariCP maneja el pool de conexiones
 
 Todo es funcional, seguro y eficiente
 
 7️⃣ Ventajas técnicas (puntos extra)
 
 ✔️ Streaming (ideal para archivos grandes)
+
 ✔️ Tipado fuerte (menos errores)
+
 ✔️ Separación clara de responsabilidades
+
 ✔️ Uso correcto de Cats Effect + FS2 + Doobie
 
-8️⃣ Si tu CSV es distinto
 
-Dime:
-
-Los headers reales del CSV
-
-O pega 5 filas del archivo
-
-Y te ajusto el case class y el SQL exactamente sin cambiar dependencias.
-
-¿Quieres que también te prepare la explicación escrita tipo informe para entregar?
 
