@@ -34,7 +34,8 @@ libraryDependencies ++= Seq
 Si puedes trabaja unicamente con estas dependencias de aqui.
 ```
 
-Respuesta de la IA:
+## Respuesta de la IA:
+
 Perfecto. Voy a resolver toda la actividad completa, usando únicamente las dependencias que ya tienes, y con un enfoque claro, académico y funcional en Scala + FS2 + Doobie + MySQL.
 
 ⚠️ Nota importante
@@ -46,7 +47,6 @@ Si tus columnas tienen otros nombres, solo deberás ajustar el case class y el C
 Ejemplo típico de un dataset de Champions League:
 
 ```
-
 season,home_team,away_team,home_goals,away_goals,stadium
 2020,Real Madrid,Liverpool,3,1,Santiago Bernabéu
 2020,PSG,Bayern Munich,0,1,Parc des Princes
@@ -56,7 +56,6 @@ season,home_team,away_team,home_goals,away_goals,stadium
 2️⃣ Tabla en MySQL
 📌 Crear base de datos
 ```
-
 CREATE DATABASE champions;
 USE champions;
 
@@ -88,7 +87,6 @@ src/main/resources/
 
 4️⃣ Configuración (application.conf)
 ```
-
 db {
   url = "jdbc:mysql://localhost:3306/champions"
   user = "root"
@@ -101,7 +99,6 @@ db {
 5️⃣ Código Scala completo y funcional
 📌 CsvToMySQL.scala
 ```
-
 package main
 
 import cats.effect.{IO, IOApp}
