@@ -1,0 +1,101 @@
+ID,Equipo_Local,Equipo_Visitante,Fecha_Partido,Estadio,Goles_Local,Goles_Visitante,Partido_Jugado
+1,Real Madrid,Bayern Múnich,2023-10-01,Santiago Bernabéu,3,2,True
+2,Manchester City,PSG,2023-10-02,Etihad Stadium,1,1,True
+3,Barcelona,Chelsea,2023-10-03,Camp Nou,2,1,True
+4,Liverpool,Inter de Milán,2023-10-04,Anfield,4,0,True
+5,Juventus,Manchester United,2023-10-05,Allianz Stadium,0,2,True
+6,Atletico Madrid,Ajax,2023-10-06,Wanda Metropolitano,1,1,True
+7,Porto,Borussia Dortmund,2023-10-07,Estádio do Dragão,0,3,True
+8,Sevilla,Leipzig,2023-10-08,Ramón Sánchez Pizjuán,2,2,True
+9,AC Milan,Benfica,2023-10-09,San Siro,1,0,True
+10,Tottenham,Shakhtar Donetsk,2023-10-10,Tottenham Hotspur Stadium,3,1,True
+11,Arsenal,Galatasaray,2023-10-11,Emirates Stadium,2,0,True
+12,Nápoles,Bayer Leverkusen,2023-10-12,Estadio Diego Armando Maradona,1,1,True
+13,Real Madrid,Manchester City,2023-10-13,Santiago Bernabéu,0,0,False
+14,Bayern Múnich,PSG,2023-10-14,Allianz Arena,0,0,False
+15,Barcelona,Liverpool,2023-10-15,Camp Nou,0,0,False
+16,Chelsea,Inter de Milán,2023-10-16,Stamford Bridge,0,0,False
+17,Juventus,Atletico Madrid,2023-10-17,Allianz Stadium,0,0,False
+18,Manchester United,Ajax,2023-10-18,Old Trafford,0,0,False
+19,Porto,Sevilla,2023-10-19,Estádio do Dragão,0,0,False
+20,Borussia Dortmund,Leipzig,2023-10-20,Signal Iduna Park,0,0,False
+21,AC Milan,Tottenham,2023-10-21,San Siro,0,0,False
+22,Benfica,Shakhtar Donetsk,2023-10-22,Estádio da Luz,0,0,False
+23,Arsenal,Nápoles,2023-10-23,Emirates Stadium,0,0,False
+24,Galatasaray,Bayer Leverkusen,2023-10-24,Türk Telekom Stadyumu,0,0,False
+25,Real Madrid,Barcelona,2023-10-25,Santiago Bernabéu,0,0,False
+26,Bayern Múnich,Chelsea,2023-10-26,Allianz Arena,0,0,False
+27,Manchester City,Liverpool,2023-10-27,Etihad Stadium,0,0,False
+28,PSG,Inter de Milán,2023-10-28,Parc des Princes,0,0,False
+29,Juventus,Porto,2023-10-29,Allianz Stadium,0,0,False
+30,Atletico Madrid,Borussia Dortmund,2023-10-30,Wanda Metropolitano,0,0,False
+31,Manchester United,Sevilla,2023-10-31,Old Trafford,0,0,False
+32,Ajax,Leipzig,2023-11-01,Johan Cruyff Arena,0,0,False
+33,AC Milan,Arsenal,2023-11-02,San Siro,0,0,False
+34,Benfica,Nápoles,2023-11-03,Estádio da Luz,0,0,False
+35,Tottenham,Galatasaray,2023-11-04,Tottenham Hotspur Stadium,0,0,False
+36,Shakhtar Donetsk,Bayer Leverkusen,2023-11-05,Donbass Arena,0,0,False
+37,Real Madrid,Manchester United,2023-11-06,Santiago Bernabéu,0,0,False
+38,Bayern Múnich,Atletico Madrid,2023-11-07,Allianz Arena,0,0,False
+39,Barcelona,Juventus,2023-11-08,Camp Nou,0,0,False
+40,Chelsea,Porto,2023-11-09,Stamford Bridge,0,0,False
+41,Liverpool,Borussia Dortmund,2023-11-10,Anfield,0,0,False
+42,Inter de Milán,Sevilla,2023-11-11,San Siro,0,0,False
+43,PSG,Ajax,2023-11-12,Parc des Princes,0,0,False
+44,Manchester City,AC Milan,2023-11-13,Etihad Stadium,0,0,False
+45,Galatasaray,Benfica,2023-11-14,Türk Telekom Stadyumu,0,0,False
+46,Nápoles,Tottenham,2023-11-15,Estadio Diego Armando Maradona,0,0,False
+47,Bayer Leverkusen,Shakhtar Donetsk,2023-11-16,BayArena,0,0,False
+48,Real Madrid,Atletico Madrid,2023-11-17,Santiago Bernabéu,0,0,False
+49,Bayern Múnich,Juventus,2023-11-18,Allianz Arena,0,0,False
+50,Barcelona,Porto,2023-11-19,Camp Nou,0,0,False
+51,Chelsea,Borussia Dortmund,2023-11-20,Stamford Bridge,0,0,False
+52,Liverpool,Sevilla,2023-11-21,Anfield,0,0,False
+53,Inter de Milán,Ajax,2023-11-22,San Siro,0,0,False
+54,PSG,AC Milan,2023-11-23,Parc des Princes,0,0,False
+55,Manchester City,Benfica,2023-11-24,Etihad Stadium,0,0,False
+56,Galatasaray,Nápoles,2023-11-25,Türk Telekom Stadyumu,0,0,False
+57,Tottenham,Bayer Leverkusen,2023-11-26,Tottenham Hotspur Stadium,0,0,False
+58,Shakhtar Donetsk,Real Madrid,2023-11-27,Donbass Arena,0,0,False
+59,Atletico Madrid,Bayern Múnich,2023-11-28,Wanda Metropolitano,0,0,False
+60,Juventus,Barcelona,2023-11-29,Allianz Stadium,0,0,False
+61,Porto,Chelsea,2023-11-30,Estádio do Dragão,0,0,False
+62,Borussia Dortmund,Liverpool,2023-12-01,Signal Iduna Park,0,0,False
+63,Sevilla,Inter de Milán,2023-12-02,Ramón Sánchez Pizjuán,0,0,False
+64,Ajax,PSG,2023-12-03,Johan Cruyff Arena,0,0,False
+65,AC Milan,Manchester City,2023-12-04,San Siro,0,0,False
+66,Benfica,Galatasaray,2023-12-05,Estádio da Luz,0,0,False
+67,Nápoles,Tottenham,2023-12-06,Estadio Diego Armando Maradona,0,0,False
+68,Bayer Leverkusen,Shakhtar Donetsk,2023-12-07,BayArena,0,0,False
+69,Real Madrid,Manchester United,2023-12-08,Santiago Bernabéu,0,0,False
+70,Bayern Múnich,Atletico Madrid,2023-12-09,Allianz Arena,0,0,False
+71,Barcelona,Juventus,2023-12-10,Camp Nou,0,0,False
+72,Chelsea,Porto,2023-12-11,Stamford Bridge,0,0,False
+73,Liverpool,Borussia Dortmund,2023-12-12,Anfield,0,0,False
+74,Inter de Milán,Sevilla,2023-12-13,San Siro,0,0,False
+75,PSG,Ajax,2023-12-14,Parc des Princes,0,0,False
+76,Manchester City,AC Milan,2023-12-15,Etihad Stadium,0,0,False
+77,Galatasaray,Benfica,2023-12-16,Türk Telekom Stadyumu,0,0,False
+78,Nápoles,Tottenham,2023-12-17,Estadio Diego Armando Maradona,0,0,False
+79,Bayer Leverkusen,Shakhtar Donetsk,2023-12-18,BayArena,0,0,False
+80,Real Madrid,Atletico Madrid,2023-12-19,Santiago Bernabéu,0,0,False
+81,Bayern Múnich,Juventus,2023-12-20,Allianz Arena,0,0,False
+82,Barcelona,Porto,2023-12-21,Camp Nou,0,0,False
+83,Chelsea,Borussia Dortmund,2023-12-22,Stamford Bridge,0,0,False
+84,Liverpool,Sevilla,2023-12-23,Anfield,0,0,False
+85,Inter de Milán,Ajax,2023-12-24,San Siro,0,0,False
+86,PSG,AC Milan,2023-12-25,Parc des Princes,0,0,False
+87,Manchester City,Benfica,2023-12-26,Etihad Stadium,0,0,False
+88,Galatasaray,Nápoles,2023-12-27,Türk Telekom Stadyumu,0,0,False
+89,Tottenham,Bayer Leverkusen,2023-12-28,Tottenham Hotspur Stadium,0,0,False
+90,Shakhtar Donetsk,Real Madrid,2023-12-29,Donbass Arena,0,0,False
+91,Atletico Madrid,Bayern Múnich,2023-12-30,Wanda Metropolitano,0,0,False
+92,Juventus,Barcelona,2023-12-31,Allianz Stadium,0,0,False
+93,Porto,Chelsea,2024-01-01,Estádio do Dragão,0,0,False
+94,Borussia Dortmund,Liverpool,2024-01-02,Signal Iduna Park,0,0,False
+95,Sevilla,Inter de Milán,2024-01-03,Ramón Sánchez Pizjuán,0,0,False
+96,Ajax,PSG,2024-01-04,Johan Cruyff Arena,0,0,False
+97,AC Milan,Manchester City,2024-01-05,San Siro,0,0,False
+98,Benfica,Galatasaray,2024-01-06,Estádio da Luz,0,0,False
+99,Nápoles,Tottenham,2024-01-07,Estadio Diego Armando Maradona,0,0,False
+100,Bayer Leverkusen,Shakhtar Donetsk,2024-01-08,BayArena,0,0,False
