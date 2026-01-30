@@ -6,6 +6,7 @@ Fecha: 30/01/2026
 
 
 IA utlizada: ChatGPT
+
 Prompt:
 
 ```
